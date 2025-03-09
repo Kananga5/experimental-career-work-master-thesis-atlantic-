@@ -1,0 +1,12 @@
+﻿Operation Server;;;
+No;Reference;Description;Quantity
+1;EUSOPECZZSPEZZ;SW PE OPER SERVER LIC;6
+Operation Client;;;
+No;Reference;Description;Quantity
+2;EUSLCCCZZSPEZZ;SW PE CTRL CLIENT LIC;1
+3;EUSVCCCZZSPEZZ;SW PE VIEW CLIENT LIC;1
+4;EUSLRCCZZSPEZZ;SW PE RED CTRL CLIENT LIC;1
+5;EUSVRCCZZSPEZZ;SW PE RED VIEW CLIENT LIC;1
+Service plan;;;
+No;Reference;Description;Quantity
+6;ECAUTESEPE;Service plan for EPE - Essential;608

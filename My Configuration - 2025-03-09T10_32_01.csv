@@ -1,0 +1,19 @@
+﻿Design & Build;;;
+No;Reference;Description;Quantity
+1;EALBTP23;licence, Ecostruxure Automation Expert, standard engineering buildtime, v23;1
+2;EALBFP23;license, EcoStruxure Automation Expert, professional engineering, buildtime, v23;1
+Operate & Maintain;;;
+No;Reference;Description;Quantity
+3;EALDSP;license, EcoStruxure Automation Expert, standard device runtime, add on, v23;6
+4;EALDHP;license, EcoStruxure Automation Expert, high availability option, runtime, add on, v23;7
+5;EALADP;license, EcoStruxure Automation Expert, run time, application, permanent, 1 user, for ATV dPac;1
+6;EALAMP;license, EcoStruxure Automation Expert, run time, application, permanent, 1 user, for M251, M262 dPAC;2
+7;EALASP;license, EcoStruxure Automation Expert, run time, application, permanent, 1 user, for M580 dPAC;1
+8;EALALP;license, EcoStruxure Automation Expert, run time, application, permannet, 1 user, for M580 dPAC with extensions;1
+Run Add-on;;;
+No;Reference;Description;Quantity
+9;EALH1P;license, EcoStruxure Automation Expert, run time, HMI, permanent, 1 user, for Harmony ST6;1
+10;EALH2P;license, EcoStruxure Automation Expert, run time, HMI, permanent, 1 user, for Harmony iPC;1
+Service plan;;;
+No;Reference;Description;Quantity
+11;ECAUTESEAE;Service plan for EcoStruxure Automation Expert - Essential;294
